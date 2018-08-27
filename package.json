@@ -1,6 +1,6 @@
 {
   "name": "available-port",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "port detect",
   "main": "out/index.js",
   "author": "Winsky Wen",
